@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/test/pages/author/</loc>
+    <loc>https://kolibac-legacy.github.io/test/pages/author/</loc>
     <lastmod>2025-11-24T22:22:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/</loc>
+    <loc>https://kolibac-legacy.github.io/test/</loc>
     <lastmod>2025-11-24T22:22:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/pages/</loc>
+    <loc>https://kolibac-legacy.github.io/test/pages/</loc>
     <lastmod>2025-11-24T22:22:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/pages/about/</loc>
+    <loc>https://kolibac-legacy.github.io/test/pages/about/</loc>
     <lastmod>2025-11-24T14:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/categories/</loc>
+    <loc>https://kolibac-legacy.github.io/test/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/test/tags/</loc>
+    <loc>https://kolibac-legacy.github.io/test/tags/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on davkol: vygeo</title>
-    <link>http://localhost:1313/test/pages/</link>
+    <link>https://kolibac-legacy.github.io/test/pages/</link>
     <description>Recent content in Pages on davkol: vygeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 24 Nov 2025 22:22:22 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/test/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kolibac-legacy.github.io/test/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>David Kolibáč</title>
-      <link>http://localhost:1313/test/pages/author/</link>
+      <link>https://kolibac-legacy.github.io/test/pages/author/</link>
       <pubDate>Mon, 24 Nov 2025 22:22:22 +0100</pubDate>
-      <guid>http://localhost:1313/test/pages/author/</guid>
+      <guid>https://kolibac-legacy.github.io/test/pages/author/</guid>
       <description>Out beyond ideas of wrongdoing and rightdoing,&#xA;There is a field. I&amp;rsquo;ll meet you there.&#xA;When the soul lies down in that grass,&#xA;The world is too full to talk about.&#xA;Ideas, language, even the phrase each other&#xA;Doesn&amp;rsquo;t make any sense.&#xA;—Rumi (tr. Barks&amp;amp;Moyne)</description>
     </item>
     <item>
       <title>Info</title>
-      <link>http://localhost:1313/test/pages/about/</link>
+      <link>https://kolibac-legacy.github.io/test/pages/about/</link>
       <pubDate>Mon, 24 Nov 2025 14:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/test/pages/about/</guid>
+      <guid>https://kolibac-legacy.github.io/test/pages/about/</guid>
       <description>vyrobeno statickým generátorem stránek Hugo&#xA;David Kolibáč</description>
     </item>
   </channel>
