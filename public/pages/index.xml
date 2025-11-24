@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on davkol: vygeo</title>
+    <link>https://github.com/kolibac-legacy/test/pages/</link>
+    <description>Recent content in Pages on davkol: vygeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="https://github.com/kolibac-legacy/test/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://github.com/kolibac-legacy/test/pages/about/</link>
+      <pubDate>Mon, 24 Nov 2025 14:30:00 +0100</pubDate>
+      <guid>https://github.com/kolibac-legacy/test/pages/about/</guid>
+      <description>David Kolibáč</description>
+    </item>
+  </channel>
+</rss>
